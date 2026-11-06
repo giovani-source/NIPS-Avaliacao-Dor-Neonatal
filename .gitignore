@@ -1,0 +1,17 @@
+# Dependências e caches
+node_modules/
+.devtools/
+.npm/
+
+# Arquivos temporários do macOS / ExFAT
+.DS_Store
+._*
+**/._*
+.Spotlight-V100
+.Trashes
+
+# Build temporário do Xcode
+Xcode/build/
+Xcode/DerivedData/
+*.xcuserdata
+*.xcscmblueprint

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="116" fill="#1B5E6B"/>
+  <circle cx="256" cy="256" r="188" fill="#EDF7F4"/>
+  <!-- Manta neonatal -->
+  <path d="M168 292C168 242 204 218 256 218C308 218 344 242 344 292C344 364 304 408 256 408C208 408 168 364 168 292Z" fill="#FFFFFF" stroke="#1B5E6B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M188 282C218 310 272 320 328 286" stroke="#3EB49E" stroke-width="8" stroke-linecap="round"/>
+  <!-- Cabeça do bebê -->
+  <circle cx="256" cy="190" r="64" fill="#FBF6F3" stroke="#1B5E6B" stroke-width="10"/>
+  <path d="M242 126C252 112 270 116 272 132C262 132 252 136 248 142" stroke="#1B5E6B" stroke-width="9" stroke-linecap="round"/>
+  <!-- Olhos serenos -->
+  <path d="M222 188C229 196 239 196 246 188" stroke="#1B5E6B" stroke-width="8" stroke-linecap="round"/>
+  <path d="M266 188C273 196 283 196 290 188" stroke="#1B5E6B" stroke-width="8" stroke-linecap="round"/>
+  <path d="M244 216C251 222 261 222 268 216" stroke="#2A8F7D" stroke-width="8" stroke-linecap="round"/>
+  <!-- Coração clínico -->
+  <path d="M256 372C256 372 232 356 232 342C232 334 238 328 246 328C250.5 328 254 330.5 256 334C258 330.5 261.5 328 266 328C274 328 280 334 280 342C280 356 256 372 256 372Z" fill="#DDF3EE" stroke="#2A8F7D" stroke-width="7" stroke-linejoin="round"/>
+</svg>
+
